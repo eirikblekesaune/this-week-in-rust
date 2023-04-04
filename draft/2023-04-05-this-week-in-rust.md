@@ -192,6 +192,8 @@ Rusty Events between 2023-04-05 - 2023-05-03 🦀
     * [**Rust Lyon Meetup #3**](https://www.meetup.com/fr-FR/rust-lyon/events/292283973/)
 * 2023-04-19 | Zurich, CH | [Rust Zurich](https://www.meetup.com/de-DE/rust-zurich/)
     * [**sett: data encryption and transfer made easy(ier)**](https://www.meetup.com/de-DE/rust-zurich/events/292151879/)
+* 2023-04-19 | Trondheim, NO | [Rust Trondheim](https://www.meetup.com/rust-trondheim/)
+    * [**Rust Embedded with MicroBit:V2**](https://www.meetup.com/rust-trondheim/events/292680021/)
 * 2023-04-20 | Aarhus, DK | [Rust Aarhus](https://www.meetup.com/rust-aarhus/)
     * [**Rust Aarhus meetup #1 at Geanix**](https://www.meetup.com/rust-aarhus/events/292185072/)
 * 2023-04-20 | Munich, DE + Virtual | [Rust Munich](https://www.meetup.com/rust-munich/)
